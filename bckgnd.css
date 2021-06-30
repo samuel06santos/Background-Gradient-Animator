@@ -1,30 +1,30 @@
-.css-selector {
-    background: linear-gradient(45deg, #8b008b, #a337a3, #d246d2, #c500c5);
-    background-size: 800% 800%;
+body {
+    background: linear-gradient(150deg, #a50ca5, #9c209c, #c739c7, #ec00ec);
+    background-size: 500% 500%;
 
-    -webkit-animation: Name 41s ease infinite;
-    -moz-animation: Name 41s ease infinite;
-    -o-animation: Name 41s ease infinite;
-    animation: Name 41s ease infinite;
+    -webkit-animation: name1 10s ease infinite;
+    -moz-animation: name2 10s ease infinite;
+    -o-animation: name3 10s ease infinite;
+    animation: name4 10s ease infinite;
 }
 
-@-webkit-keyframes Name {
-    0%{background-position:92% 0%}
-    50%{background-position:9% 100%}
-    100%{background-position:92% 0%}
+@-webkit-keyframes name1 {
+    0%{background-position:0 50%}
+    50%{background-position:100% 50%}
+    100%{background-position:0 50%}
 }
-@-moz-keyframes Name {
-    0%{background-position:92% 0%}
-    50%{background-position:9% 100%}
-    100%{background-position:92% 0%}
+@-moz-keyframes name2 {
+    0%{background-position:0 50%}
+    50%{background-position:100% 50%}
+    100%{background-position:0 50%}
 }
-@-o-keyframes Name {
-    0%{background-position:92% 0%}
-    50%{background-position:9% 100%}
-    100%{background-position:92% 0%}
+@-o-keyframes name3 {
+    0%{background-position:0 50%}
+    50%{background-position:100% 50%}
+    100%{background-position:0 50%}
 }
-@keyframes Name {
-    0%{background-position:92% 0%}
-    50%{background-position:9% 100%}
-    100%{background-position:92% 0%}
+@keyframes name4 {
+    0%{background-position:0 50%}
+    50%{background-position:100% 50%}
+    100%{background-position:0 50%}
 }
