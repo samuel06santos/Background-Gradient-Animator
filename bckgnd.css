@@ -2,28 +2,28 @@
     background: linear-gradient(45deg, #8b008b, #a337a3, #d246d2, #c500c5);
     background-size: 800% 800%;
 
-    -webkit-animation: Nubank 41s ease infinite;
-    -moz-animation: Nubank 41s ease infinite;
-    -o-animation: Nubank 41s ease infinite;
-    animation: Nubank 41s ease infinite;
+    -webkit-animation: Name 41s ease infinite;
+    -moz-animation: Name 41s ease infinite;
+    -o-animation: Name 41s ease infinite;
+    animation: Name 41s ease infinite;
 }
 
-@-webkit-keyframes Nubank {
+@-webkit-keyframes Name {
     0%{background-position:92% 0%}
     50%{background-position:9% 100%}
     100%{background-position:92% 0%}
 }
-@-moz-keyframes Nubank {
+@-moz-keyframes Name {
     0%{background-position:92% 0%}
     50%{background-position:9% 100%}
     100%{background-position:92% 0%}
 }
-@-o-keyframes Nubank {
+@-o-keyframes Name {
     0%{background-position:92% 0%}
     50%{background-position:9% 100%}
     100%{background-position:92% 0%}
 }
-@keyframes Nubank {
+@keyframes Name {
     0%{background-position:92% 0%}
     50%{background-position:9% 100%}
     100%{background-position:92% 0%}
