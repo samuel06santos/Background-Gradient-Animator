@@ -1,0 +1,35 @@
+body {
+    background: linear-gradient(150deg,
+     rgba(161,102,250,1) 17%,
+     rgba(143,78,242,1) 40%,
+     rgba(119,51,222,1) 64%,
+     rgba(90,3,221,1) 85%);
+
+    background-size: 500% 500%;
+
+    -webkit-animation: name1 10s ease infinite;
+    -moz-animation: name2 10s ease infinite;
+    -o-animation: name3 10s ease infinite;
+    animation: name4 10s ease infinite;
+}
+
+@-webkit-keyframes name1 {
+    0%{background-position:0 50%}
+    50%{background-position:100% 50%}
+    100%{background-position:0 50%}
+}
+@-moz-keyframes name2 {
+    0%{background-position:0 50%}
+    50%{background-position:100% 50%}
+    100%{background-position:0 50%}
+}
+@-o-keyframes name3 {
+    0%{background-position:0 50%}
+    50%{background-position:100% 50%}
+    100%{background-position:0 50%}
+}
+@keyframes name4 {
+    0%{background-position:0 50%}
+    50%{background-position:100% 50%}
+    100%{background-position:0 50%}
+}
